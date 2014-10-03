@@ -47,16 +47,6 @@ body{font-family:Roboto Slab,serif;background:url(../images/pattern709.png),url(
 
 /* Header */
 .header {background-color:rgba(249,249,249, 1);}
-.header::after
-{
-  border-left: 20px solid transparent;
-  border-right: 20px solid transparent;
-  border-top: 20px solid rgba(0, 0, 0, 0.2);
-  margin: 0 auto;
-  position: relative;
-  top: 20px;
-  width: 0;
-}
 .header-top{border-color:#888;height:auto}
 
 .middle_part h1 {font-weight: 400;}
