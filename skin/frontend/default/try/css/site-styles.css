@@ -42,7 +42,7 @@ body{font-family:Roboto Slab,serif;background:url(../images/pattern709.png),url(
 #home-latest .women_price_box4 p{max-height:2em;min-height:2em}
 
 /* Global */
-#back-to-mventory{-webkit-background-size:contain;background:url(../images/icon-back.png) no-repeat 5px 0 / contain;float:left;padding:8px 13px 8px 40px; color:#df1616;}
+#back-to-mventory{-webkit-background-size:contain;background:url(../images/icon-back.png) no-repeat 5px 11px;float:left;padding:8px 13px 8px 25px; color:#ec0100; font-weight:bold; }
 #back-to-mventory:hover{background-color:rgba(0,0,0,.1);cursor:pointer}
 
 /* Header */
