@@ -99,7 +99,10 @@ a,.flexslider .slider-text h1{color:#546149}
 .circle{background-color: #800909;}
 .shopping_bg {margin:25px 0 25px 0;}
 .shopping_bg, .block-cart .subtotal{background-color:transparent; border-radius: 5px; border:1px solid #cfcfcf; opacity: 0.9;}
-.shopping_bg img {opacity: 0.9;}
+.shopping_bg img {opacity: 0.9; margin-top:15px;}
+.shopping_bg h1, .mini-cart-div .summary .amount{color:#323232;}
+.shopping_bg h1 {margin-left:20px;}
+.mini-cart-div .summary .amount {margin-left:20px;}
 .block-cart .block-subtitle{margin-top:25px;}
 .block-cart .subtotal {color: #4b4b4b;}
 #cart-listing {background-color:#fff; opacity:1;}
