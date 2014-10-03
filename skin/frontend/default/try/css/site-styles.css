@@ -37,6 +37,7 @@ src:url('../fonts/RobotoSlab-Bold.eot?#iefix') format('embedded-opentype'),
 body{font-family:Roboto Slab,serif;background:#fff;}
 
 .logo img{max-width:277px;max-height:84px}
+.breadcrumbs {background:#e2dbd1;}
 .breadcrumbs .category256,.block-compare,.add_compare_link,.no-rating,#mv_created_date,.cart-collaterals .shipping,.view_img{display:none}
 .header .links a {border-right: none;}
 #home-latest .women_price_box4 p{max-height:2em;min-height:2em}
@@ -87,9 +88,10 @@ body{font-family:Roboto Slab,serif;background:#fff;}
 /* Navigation */
 .navigation-container{border:none}
 #nav{max-width:780px}
-#nav li a span{font-size:14pt;font-weight:400}
-#nav li {padding:15px; border:1px solid transparent; border-top:3px solid transparent;}
-#nav li.over,#nav li:hover,#nav li.active{border-top:3px solid #aaa;background-color:#f5f5f5;padding:15px}
+#nav li a span{font-size:14pt;font-weight:400; text-transform: capitalize;}
+#nav li {padding:15px; border:0; border-top:0;}
+#nav li.over,#nav li:hover,#nav li.active{border:0; background-color:#f5f5f5;padding:15px}
+#nav li.over a,#nav li:hover a,#nav li.active a{color:#1780d1}
 #nav ul {top: 47px; background-color:#f5f5f5;}
 #social-and-search-wrapper {margin: 3px 0;}
 
