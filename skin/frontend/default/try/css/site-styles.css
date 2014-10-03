@@ -47,7 +47,8 @@ body{font-family:Roboto Slab,serif;background:url(../images/pattern709.png),url(
 
 /* Header */
 .header {background-color:rgba(249,249,249, 1);}
-.header-top{border-color:#888;height:auto}
+.header-top{border-color:#cfcfcf;height:auto}
+.header .container {border-bottom:1px solid #cfcfcf;cfc}
 .middle_part h1 {font-weight: 400;}
 .header .logo {margin-top:10px;}
 
@@ -97,7 +98,7 @@ a,.flexslider .slider-text h1{color:#546149}
 .flexslider .slider-text p{margin:15px 0 0;color:#000;padding:15px 0 0;border-top:1px solid #546149}
 .circle{background-color: #800909;}
 .shopping_bg {margin:25px 0 25px 0;}
-.shopping_bg, .block-cart .subtotal{background-color:transparent; border-radius: 5px; border:1px solid #888; opacity: 0.9;}
+.shopping_bg, .block-cart .subtotal{background-color:transparent; border-radius: 5px; border:1px solid #cfcfcf; opacity: 0.9;}
 .shopping_bg img {opacity: 0.9;}
 .block-cart .block-subtitle{margin-top:25px;}
 .block-cart .subtotal {color: #4b4b4b;}
