@@ -46,7 +46,7 @@ body{font-family:Roboto Slab,serif;background:url(../images/pattern709.png),url(
 #back-to-mventory:hover{background-color:rgba(0,0,0,.1);cursor:pointer}
 
 /* Header */
-.header {background-color:rgba(0,0,0,0.2);}
+.header {background-color:rgba(249,249,249, 1);}
 .header::after
 {
   border-left: 20px solid transparent;
