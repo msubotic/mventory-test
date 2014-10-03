@@ -53,6 +53,8 @@ body{font-family:Roboto Slab,serif;background:#fff;}
 .middle_part h1 {font-weight: 400;}
 .header .logo {margin-top:10px;}
 .header .links .social-login {padding:9px 61px 9px 23px;}
+#top-social a{margin:0 15px 0 0;}
+#top-social a:hover{background-position:0 0; opacity:0.7;-webkit-transition: all 0.25s;-moz-transition: all 0.25s;-o-transition: all 0.25s;transition: all 0.25s;}
 
 /* Product listing */
 #view-more{clear:both}
