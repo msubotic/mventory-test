@@ -81,7 +81,8 @@ body{font-family:Roboto Slab,serif;background:#fff;}
 #sweetbox2 li span{float:right;margin-left:5px}
 #sweetbox2 li,#sweetbox3 li{margin-bottom:5px}
 #productivity-image-edit-panel{z-index:9999}
-.form-search input.input-text{width:107px}
+.form-search{ border-top:1px solid #cfcfcf; border:1px solid #cfcfcf; }
+.form-search input.input-text{width:210px;}
 
 /* Product details */
 .detail_product_blog{float:right}
