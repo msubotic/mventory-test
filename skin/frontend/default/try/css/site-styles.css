@@ -34,7 +34,7 @@ src:url('../fonts/RobotoSlab-Bold.eot?#iefix') format('embedded-opentype'),
     url('../fonts/RobotoSlab-Bold.svg#roboto_slabbold') format('svg');
 }
 
-body{font-family:Roboto Slab,serif;background:url(../images/pattern709.png),url(../images/bg-demo-img.png)}
+body{font-family:Roboto Slab,serif;background:#fff;}
 
 .logo img{max-width:277px;max-height:84px}
 .breadcrumbs .category256,.block-compare,.add_compare_link,.no-rating,#mv_created_date,.cart-collaterals .shipping,.view_img{display:none}
@@ -48,9 +48,10 @@ body{font-family:Roboto Slab,serif;background:url(../images/pattern709.png),url(
 /* Header */
 .header {background-color:rgba(249,249,249, 1);}
 .header-top{border-color:#cfcfcf;height:auto}
-.header .container {border-bottom:1px solid #cfcfcf;cfc}
+.header .container {border-bottom:1px solid #cfcfcf;}
 .middle_part h1 {font-weight: 400;}
 .header .logo {margin-top:10px;}
+.header .links .social-login {padding:9px 61px 9px 23px;}
 
 /* Product listing */
 #view-more{clear:both}
