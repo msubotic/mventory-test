@@ -78,8 +78,8 @@ switch (true) {
     echo $this->getCmsBlockHtml();
     break;
   case $this->isMixedMode():
-    echo $this->getProductListHtml();
     echo $this->getCmsBlockHtml();
+    echo $this->getProductListHtml();
     break;
   default:
     echo $this->getProductListHtml();
