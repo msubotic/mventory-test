@@ -34,7 +34,7 @@ src:url('../fonts/RobotoSlab-Bold.eot?#iefix') format('embedded-opentype'),
     url('../fonts/RobotoSlab-Bold.svg#roboto_slabbold') format('svg');
 }
 
-body{font-family:Roboto Slab,serif;background:url(../images/pattern709.png),url(../images/bg-demo-img.png)}
+body{font-family:Roboto Slab,serif;background:#fff;}
 
 .logo img{max-width:277px;max-height:84px}
 .breadcrumbs .category256,.block-compare,.add_compare_link,.no-rating,#mv_created_date,.cart-collaterals .shipping,.view_img{display:none}
